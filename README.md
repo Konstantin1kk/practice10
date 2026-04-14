@@ -14,6 +14,7 @@
 
 <h1>Вывод программы</h1>
 
+```
 Created 20 albums.
 Prices written to album_prices.txt successfully
 
@@ -51,7 +52,7 @@ Something(3:02)
 Maxwell's Silver Hammer(3:27)
 Here Comes the Sun(3:05)
 Because(2:45)
-================================
+================================ 
 
 ========== TOP 5 POPULAR ALBUMS ==========
 1. Heavy Metal - Kai Angel & 9mice (2023)
